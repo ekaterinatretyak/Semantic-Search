@@ -1,4 +1,4 @@
-#!d:\projects\semantic search\semantic-search\venv\scripts\python.exe
+#!D:\Projects\Semantic Search\venv\Scripts\python.exe
 from __future__ import with_statement
 import os
 import sys
